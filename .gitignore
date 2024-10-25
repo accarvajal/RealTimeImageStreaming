@@ -43,8 +43,6 @@ publish/
 out/
 
 # Ignore images and other media
-Images/
-Videos/
 
 # Ignore app settings
 appsettings.json
