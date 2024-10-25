@@ -32,12 +32,12 @@ The task is to develop two .NET applications that communicate with each other us
 
 1. Open the `ImageStreamReceiver` project.
 2. Run the application using `dotnet run`.
-3. Images will be saved in the `Images` directory in the project root.
+3. Images will be saved in the `Images` directory in the project root. There are some frame images already created in the repository as samples.
 
 ### 2. RTSPFrameSender
 
 1. Open the `RTSPFrameSender` project.
-2. Place your video file in the root `Videos` folder and name it `Video1.mp4`.
+2. Place your video file in the root `Videos` folder and name it `Video1.mp4`. There is one video file in the repository for testing purposes.
 3. Run the application using `dotnet run`.
 
 ## Notes
